@@ -8,9 +8,23 @@
 
 ## 데모
 
-[시연 영상](./13조_동영상.mp4) · [서비스 기획보고서](./JustDO_서비스기획보고서_읽기쉬운버전.pdf)
+<!--
+  영상 추가 방법(드래그 앤 드롭, git에 파일 커밋 불필요):
+  1. 이 저장소의 GitHub 페이지에서 Issues 탭 → "New issue" (등록은 안 해도 됨)
+     또는 아무 PR 댓글창을 연다.
+  2. 댓글 입력창에 13조_동영상.mp4 파일을 그대로 드래그해서 놓는다.
+  3. 업로드가 끝나면 입력창에 "https://github.com/user-attachments/assets/..." 형태의
+     마크다운 링크가 자동으로 채워진다. 그 URL만 복사한다. (Issue/PR은 저장하지 않아도 됨 —
+     한 번 업로드된 파일은 URL이 살아있는 한 그대로 유지된다.)
+  4. 아래 PASTE_VIDEO_URL_HERE 두 곳(아래 <video src="..."> 와 다운로드 링크)을
+     복사한 URL로 바꾼다.
+-->
 
-> **영상 업로드 필요:** 현재 공개 저장소의 `main` 브랜치에는 `13조_동영상.mp4`가 없습니다. 업로드 후 위 링크가 작동합니다. GitHub Issue/Release 첨부 영상 URL로 교체해도 됩니다.
+<video src="PASTE_VIDEO_URL_HERE" controls width="720">
+  브라우저가 비디오 태그를 지원하지 않으면 아래 링크에서 직접 재생하세요.
+</video>
+
+▶ [시연 영상](PASTE_VIDEO_URL_HERE) · [서비스 기획보고서](./JustDO_서비스기획보고서_읽기쉬운버전.pdf)
 
 ## 핵심 기능
 
