@@ -24,7 +24,7 @@
   브라우저가 비디오 태그를 지원하지 않으면 아래 링크에서 직접 재생하세요.
 </video>
 
-▶ [시연 영상](PASTE_VIDEO_URL_HERE) · [서비스 기획보고서](./JustDO_서비스기획보고서_읽기쉬운버전.pdf)
+▶ [시연 영상](PASTE_VIDEO_URL_HERE) · [서비스 기획보고서](./JustDO_서비스기획보고서.pdf)
 
 ## 핵심 기능
 
@@ -121,7 +121,7 @@ pytest -m live   # 실제 프로바이더 호출 (API 키 필요)
 
 ## 프로젝트 문서
 
-- [서비스 기획보고서 — 읽기 쉬운 버전](./JustDO_서비스기획보고서_읽기쉬운버전.pdf)
+- [서비스 기획보고서](./JustDO_서비스기획보고서.pdf)
 - [서비스 기획보고서 — 원본](./서비스기획보고서%20%281%29.pdf)
 - [AI 서버 설명 및 API](./ai/README.md)
 - [백엔드 API 명세](./backend/docs/API_SPECIFICATION_NOTION_최종.md)
