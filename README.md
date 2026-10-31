@@ -8,22 +8,11 @@
 
 ## 데모
 
-<!--
-  영상이 10.69MB라 GitHub 파일 미리보기(~10MB)를 살짝 넘겨서, git에 직접 커밋한
-  파일로는 README에서 재생이 안 될 수 있다. Issue 댓글창 드래그 앤 드롭으로 올린
-  user-attachments URL(용량 제한 더 넉넉함)로 교체해야 한다.
-
-  1. https://github.com/jenayang/KTB4-AI-Hackathon-13/issues/new 로 이동 (등록 안 해도 됨)
-  2. 댓글 입력창에 13조_동영상.mp4를 드래그해서 놓는다.
-  3. 업로드 완료되면 생기는 "https://github.com/user-attachments/assets/..." URL을 복사한다.
-  4. 아래 PASTE_VIDEO_URL_HERE 두 곳을 그 URL로 바꾼다.
--->
-
-<video src="PASTE_VIDEO_URL_HERE" controls width="720">
+<video src="https://github.com/user-attachments/assets/753810e8-31e6-40ec-a3aa-66fd134d1bab" controls width="720">
   브라우저가 비디오 태그를 지원하지 않으면 아래 링크에서 직접 재생하세요.
 </video>
 
-▶ [시연 영상](PASTE_VIDEO_URL_HERE) · [서비스 기획보고서](./JustDO_서비스기획보고서.pdf)
+▶ [시연 영상](https://github.com/user-attachments/assets/753810e8-31e6-40ec-a3aa-66fd134d1bab) · [서비스 기획보고서](./JustDO_서비스기획보고서.pdf)
 
 ## 핵심 기능
 
